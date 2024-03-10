@@ -1,6 +1,5 @@
 ### Hi there, I'm Victor! 👋
 
-
 I'm a PhD in Commputational Social Science with a passion for data analysis and machine learning. My expertise lies in Python, R, and C, and I have experience implementing machine learning models to gain insights from complex datasets.
 
 Currently, I am a student at 42 Telefonica School of Programming, where I am further honing my programming skills and expanding my knowledge in software development.
@@ -26,7 +25,7 @@ __Achievements:__
  * 🥉 CommonLit Readability Prize NLP Kaggle Competition 🥉
 
  * **Suarez-Lledo, V.**, Mejova, Y. (2022). [Behavior Change Around an Online Health Awareness Campaign: A Causal Impact Study.](https://doi.org/10.3389/FPUBH.2022.857531) *Frontiers in Public Health* 1497. (Nominated as best paper in 12th International Conference on Social Informatics (SocInfo 2020))
- 
+
 ## Languages
 
 <a href="https://github.com/VictorSuarezL/VictorSuarezL">
