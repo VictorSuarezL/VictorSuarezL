@@ -20,10 +20,13 @@ Feel free to explore my repositories and reach out to me if you have any questio
 
 I'm always open to new ideas and collaborations, so let's connect and create something amazing together!
 
-⚡ Collaborating with Google in the development of Health Misinformation Risk Index
+__Achievements:__
+ * ⚡ Collaborating with Google in the development of Health Misinformation Risk Index ⚡
 
-🥉 CommonLit Readability Prize NLP Kaggle Competition
+ * 🥉 CommonLit Readability Prize NLP Kaggle Competition 🥉
 
+ * **Suarez-Lledo, V.**, Mejova, Y. (2022). [Behavior Change Around an Online Health Awareness Campaign: A Causal Impact Study.](https://doi.org/10.3389/FPUBH.2022.857531) *Frontiers in Public Health* 1497. (Nominated as best paper in 12th International Conference on Social Informatics (SocInfo 2020))
+ 
 ## Languages
 
 <a href="https://github.com/VictorSuarezL/VictorSuarezL">
