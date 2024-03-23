@@ -30,7 +30,7 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 ### Languages
 
 <a href="https://github.com/VictorSuarezL/VictorSuarezL">
-    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,c,html,css" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,scikitlearn,html,css" alt="My Skills">
 </a>
 
 ### Software
