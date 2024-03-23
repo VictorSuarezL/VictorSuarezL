@@ -97,3 +97,7 @@ I'm always open to new ideas and collaborations, so let's connect and create som
     </a>
 </td>
 </table>
+
+ <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=VictorSuarezL&style=flat&color=blue"></a>
+</p>
