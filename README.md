@@ -44,7 +44,7 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=7654451)](https://github.com/VictorSuarezL)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSuarezL&layout=compact&theme=dark&hide_border=true" />
   <a href="https://github.com/VictorSuarezL/VictorSuarezL">
     <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,sklearn,html,css,sqlite,mysql,mongodb,vscode,vim,atom&perline=8" alt="My Skills">
   </a>
