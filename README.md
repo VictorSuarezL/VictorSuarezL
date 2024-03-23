@@ -45,6 +45,8 @@ I'm always open to new ideas and collaborations, so let's connect and create som
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="My Skills">
 </a>
 
+[![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=7654451)](https://github.com/kurt-liao/so-stats)
+
 ## 42 Projects
 
 <table style="margin: auto;">
