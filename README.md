@@ -4,13 +4,6 @@ I'm a PhD in Commputational Social Science with a passion for data analysis and 
 
 Currently, I am a student at 42 Telefonica School of Programming, where I am further honing my programming skills and expanding my knowledge in software development.
 
-Here are some highlights of what you'll find in my GitHub repositories:
-
-- 📚 Projects related to computational social science and data analysis
-- 🤖 Implementations of machine learning models and algorithms
-- 💻 Code samples and tutorials on Python, R, and C
-- 🌱 Ongoing learning projects and experiments
-
 Feel free to explore my repositories and reach out to me if you have any questions or collaboration opportunities. You can contact me through the following channels:
 
 - ➡️ Linkedin: [linkedin](www.linkedin.com/in/victor-sanz-suarez-lledo)
