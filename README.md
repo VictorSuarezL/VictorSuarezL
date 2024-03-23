@@ -35,7 +35,7 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSuarezL&layout=compact&theme=dark&hide_border=false" />
-  <img src="https://so-stats-kurt-liao.vercel.app/api?user=7654451" >
+  <img src="https://so-stats-kurt-liao.vercel.app/api?user=7654451&cache=true" >
   </a>
 </p>
 
