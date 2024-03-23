@@ -13,9 +13,9 @@ Here are some highlights of what you'll find in my GitHub repositories:
 
 Feel free to explore my repositories and reach out to me if you have any questions or collaboration opportunities. You can contact me through the following channels:
 
-- 📧 Email: [vsslledo@gmail.com](mailto:vsslledo@gmail.com)
-- 🌐 Website: [vsslledo.com](https://vsslledo.com)
+- ➡️ Linkedin: [linkedin](www.linkedin.com/in/victor-sanz-suarez-lledo)
 - 🐦 Twitter: [@vsslledo](https://twitter.com/vsslledo)
+- 🌐 Website: [vsslledo.com](https://vsslledo.com)
 
 I'm always open to new ideas and collaborations, so let's connect and create something amazing together!
 
