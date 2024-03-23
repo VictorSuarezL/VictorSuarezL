@@ -27,6 +27,12 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 
  * 🚀 **Suarez-Lledo, V.**, Mejova, Y. (2022). [Behavior Change Around an Online Health Awareness Campaign: A Causal Impact Study.](https://doi.org/10.3389/FPUBH.2022.857531) *Frontiers in Public Health* 1497. (Nominated as best paper in 12th International Conference on Social Informatics (SocInfo 2020))
 
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+</p>
+<br>
+
 <p align="center">
     <a href="https://github.com/VictorSuarezL/VictorSuarezL">
         <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,sklearn,html,css,sqlite,mysql,mongodb,vscode,vim,atom&perline=8" alt="My Skills">
@@ -36,6 +42,14 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 ## My Stack Overflow Stats
 
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=7654451)](https://github.com/VictorSuarezL)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://github.com/VictorSuarezL/VictorSuarezL">
+    <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,sklearn,html,css,sqlite,mysql,mongodb,vscode,vim,atom&perline=8" alt="My Skills">
+  </a>
+</p>
+
 
 ## 42 Projects
 
