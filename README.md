@@ -10,6 +10,12 @@ Currently, I am a student at 42 Telefonica School of Programming, where I am fur
 
 I'm always open to new ideas and collaborations, so let's connect and create something amazing together!
 
+<p align="center">
+    <a href="https://github.com/VictorSuarezL/VictorSuarezL">
+        <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,sklearn,html,css,sqlite,mysql,mongodb,vscode,vim,atom&perline=8" alt="My Skills">
+    </a>
+</p>
+
 ---
 
 ### Achievements
@@ -19,18 +25,6 @@ I'm always open to new ideas and collaborations, so let's connect and create som
  * 🥉 3th Position in CommonLit Readability Prize NLP Kaggle Competition 
 
  * 🚀 **Suarez-Lledo, V.**, Mejova, Y. (2022). [Behavior Change Around an Online Health Awareness Campaign: A Causal Impact Study.](https://doi.org/10.3389/FPUBH.2022.857531) *Frontiers in Public Health* 1497. (Nominated as best paper in 12th International Conference on Social Informatics (SocInfo 2020))
-
-<p align="center">
-    <a href="https://github.com/VictorSuarezL/VictorSuarezL">
-        <img src="https://skillicons.dev/icons?i=python,r,c,javascript,bash,cmake,git,sklearn,html,css,sqlite,mysql,mongodb,vscode,vim,atom&perline=8" alt="My Skills">
-    </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSuarezL&layout=compact&theme=great-gatsby&hide_border=false" />
-  <img src="https://so-stats-kurt-liao.vercel.app/api?user=7654451&cache=true" >
-  </a>
-</p>
 
 ---
 
