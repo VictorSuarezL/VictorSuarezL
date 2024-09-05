@@ -67,8 +67,3 @@ I'm always open to new ideas and collaborations, so let's connect and create som
 - Diaz-Chorne, L., **Suarez-Lledo, V.**, & Lorenzo-Rodriguez, J. (2019). [It’s the taking part that counts: Inequalities and simultaneous youth transnational engagement from six European countries](https://journals.tplondon.com/index.php/ml/article/view/628). *Migration Letters, 16(1), 11-25*.
 
 - Alvarez-Galvez, J., Salinas-Perez J.A., **Suarez-Lledo, V.**, et al. (2016). [Economic Crisis and Health Inequalities in Southern Spain: A Multilevel Analysis](https://academic.oup.com/eurpub/article/26/suppl_1/ckw169.053/2448742). *European Journal of Public Health*.
-
----
-
-This format maintains the key information but is more concise and informal, suitable for a GitHub README.md.
-
