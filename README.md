@@ -8,8 +8,6 @@ Currently, I am a student at 42 Telefonica School of Programming, where I am fur
 - 🐦 Twitter: [@vsslledo](https://twitter.com/vsslledo)
 - 🌐 Website: [vsslledo.com](https://vsslledo.com)
 
-I'm always open to new ideas and collaborations, so let's connect and create something amazing together!
-
 ---
 
 ### Achievements
