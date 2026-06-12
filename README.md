@@ -6,7 +6,6 @@ Currently, I am a student at 42 Telefonica School of Programming, where I am fur
 
 - ➡️ Linkedin: [linkedin](www.linkedin.com/in/victor-sanz-suarez-lledo)
 - 🐦 Twitter: [@vsslledo](https://twitter.com/vsslledo)
-- 🌐 Website: [vsslledo.com](https://vsslledo.com)
 
 ---
 
